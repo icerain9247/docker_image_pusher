@@ -1,8 +1,8 @@
 #支持私库
-registry.aliyuncs.com/google_containers/kube-apiserver:v1.17.3
-registry.aliyuncs.com/google_containers/kube-controller-manager:v1.17.3
-registry.aliyuncs.com/google_containers/kube-scheduler:v1.17.3
-registry.aliyuncs.com/google_containers/kube-proxy:v1.17.3
+registry.aliyuncs.com/google_containers/kube-apiserver:v1.17.13
+registry.aliyuncs.com/google_containers/kube-controller-manager:v1.17.13
+registry.aliyuncs.com/google_containers/kube-scheduler:v1.17.13
+registry.aliyuncs.com/google_containers/kube-proxy:v1.17.13
 registry.aliyuncs.com/google_containers/pause:3.1
 registry.aliyuncs.com/google_containers/etcd:3.4.3-0
 registry.aliyuncs.com/google_containers/coredns:1.6.5
