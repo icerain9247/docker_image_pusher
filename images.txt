@@ -15,3 +15,4 @@ calico/kube-controllers:v3.12.3
 goharbor/prepare:v1.8.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+provectuslabs/kafka-ui:latest
