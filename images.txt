@@ -2,7 +2,6 @@ langgenius/dify-api:0.15.1
 postgres:15-alpine
 redis:6-alpine
 ubuntu/squid:latest
-certbot/certbot3
 nginx:latest
 pingcap/tidb:v8.4.0
 semitechnologies/weaviate:1.19.0
