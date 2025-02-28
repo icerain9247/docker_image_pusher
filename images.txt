@@ -1,1 +1,1 @@
-xprobe/xinference:v1.3.0
+eclipse-temurin:17-jre-focal
