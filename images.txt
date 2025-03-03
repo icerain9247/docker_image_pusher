@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre-focal
+ghcr.io/xiaobaidadada/filecat:latest
