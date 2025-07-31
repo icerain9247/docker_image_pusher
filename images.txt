@@ -1,1 +1,1 @@
-sigoden/dufs
+amir20/dozzle:latest
